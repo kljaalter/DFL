@@ -212,9 +212,13 @@ li a {
 }
 
 #link {
-	font-size:25px;
-	border-style:solid;
-	border-width:3px;
+	font-size:20px;
+	padding:0px 10px;
+	border-width:5px;
+		  position: absolute;
+	  left: 50%;
+	  transform: translate(-50%, 0%);
+	  width:170px;
 }
 #info {
 	margin-top:1400px;
