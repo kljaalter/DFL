@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^test/?$
+
+ErrorDocument 404 /404.html
