@@ -1,6 +1,7 @@
 body {
 	margin: 0;
-	font-family:Arial black;
+		font-family:Arial;
+	font-weight: bold;
 	background-color:#155CAA;
 }
 
@@ -151,7 +152,6 @@ and (max-device-width : 736px)
 {
 body {
 	background-color:#155CAA;
-	font-family:Arial;
 }
 
 	#main {
